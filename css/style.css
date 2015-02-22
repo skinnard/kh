@@ -120,10 +120,11 @@ Buttons
 .button:hover {background: #878C99;}
 
 .contact_btn {
-	padding:20px 75px 20px 75px;
+	padding: 20px 75px 20px 75px;
 	background: #878C99;
 	left: 50%;
-	margin-left: -28.5px;
+	margin-left: -113px;
+	margin-top: 50px;
 }
 
 .contact_btn:hover {
@@ -148,7 +149,7 @@ Content
 	background-color: #EFEFEF;
 }
 .intro {
-	padding: 75px 5%;
+	padding: 9% 75px 5% 60px;
 	font-size: 1.1em;
 }	
 
@@ -512,13 +513,29 @@ Media Queries
 
 } /* End of small screen Media Query */
 
-
+/* medium displays */
+@media only screen and (max-width: 1000px) {
+	body 
+	.intro {
+		max-width: 100%;
+	}
+	.intro h3 {
+		text-align: center;		 
+	}
+	.main-pic {
+		max-width: 100%;
+		text-align: center;
+	}
+	.main-pic img {
+		margin-top: 0;
+	}
+}
 
 /*------------------------------------------------*/
 
 /* large displays */
 
-@media only screen and (min-width: 640px) {
+@media only screen and (min-width: 1000px) {
 
 	.list_left {
 		padding-left: 10%;
@@ -528,7 +545,10 @@ Media Queries
 		padding-right: 10%;
 	}
 	.intro {
-		max-width: 80%;
+		max-width: 50%;
+	}
+	.main-pic {
+		max-width: 50%;
 	}
 	.lead {
 		max-width: 60%;

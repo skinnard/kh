@@ -2,18 +2,22 @@
 
 
             <div class="row main-pic-row">
-                <div class="small-12 medium-6 columns intro">
-                    <h3>Hello and Welcome! I offer therapy in Greater Toronto Area. I look forward to hearing from you soon. </h3>
-                    <a href="contact.php" class="button contact_btn">Contact</a>
+                <div class="small-12 medium-12 columns intro">
+                    <h3>If you are struggling and need professional support, I can help. l offer therapy for individuals, couples and families in the Greater Toronto Area and look forward to connecting with you&nbsp;soon.</h3>
                 </div>
-                <div class="small-12 medium-6 columns main-pic">
+                
+                <div class="small-12 medium-12 columns main-pic">
                     <img class="main-img" src="img/kristen.jpg">
                 </div>
             </div>   
 
+            <div class="large-12">
+                <a href="contact.php" class="button contact_btn">Contact</a>
+            </div>
+
             <div class="row">
                 <div class="small-12 small-centered columns lead">
-                    <p>If you are struggling and need professional help, deciding to make that first call to a therapist can be an intimidating and often overwhelming prospect. When you're ready to take the first step, I'll do my best to make you feel as comfortable as possible. Some of the issues I can help you with include:</p>
+                    <p>Deciding to make that first call to a therapist can be an intimidating and often overwhelming prospect. As you begin to move toward growth and healing, some of the challenges I can help&nbsp;with include:</p>
                 </div>
             </div>
             
