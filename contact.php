@@ -2,12 +2,11 @@
 
 
     <div class="row contact-row"> 
-        <div class="small-12 medium-6 columns contact-info">
+        <div class="small-12 medium-12 columns contact-info">
             <h1>contact</h1>
             <p><em>My warm and welcoming offices are conveniently located in Toronto and Mississauga.</em></p>
             <p>Please contact me for more detailed information on office hours and appointment times.</p>
-            <p>(647) 269-3436</p>
-            <p>therapy@kristenhodges.com</p>
+            <p>(647) 269-3436 <br>therapy@kristenhodges.com</p>
 
             
 
