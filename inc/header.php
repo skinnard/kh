@@ -25,20 +25,20 @@
             <a href="../kh/index.php"><img data-interchange="[img/header-small.jpg, (small)], [img/header-large.jpg, (medium)][img/header-large.jpg, (large)]"></a>
 
             <div class="navigation">
-                <a id="home" class="button" href="../kh/index.php">HOME</a> 
-                <a id="about" class="button" href="../kh/about.php">ABOUT</a>
-                <a id="services" class="button" href="../kh/services.php">SERVICES</a>
-                <a id="resources" class="button" href="../kh/resources.php">RESOURCES</a>
-                <a id="contact" class="button" href="../kh/contact.php">CONTACT</a>   
+                <a id="home" class="button" href="../index.php">HOME</a> 
+                <a id="about" class="button" href="../about.php">ABOUT</a>
+                <a id="services" class="button" href="../services.php">SERVICES</a>
+                <a id="resources" class="button" href="../resources.php">RESOURCES</a>
+                <a id="contact" class="button" href="../contact.php">CONTACT</a>   
             </div>   
 
             <div id="cssmenu">
                 <ul>
-                   <li class='active'><a href='../kh/index.php'></i><span>Home</span></a> 
-                   <li><a href='../kh/about.php'></i><span>About</span></a>
-                   <li><a href='../kh/services.php'><span>Services</span></a>
-                   <li><a href='../kh/resources.php'><span>Resources</span></a>
-                   <li class='last'><a href='../kh/contact.php'><span>Contact</span></a>
+                   <li class='active'><a href='../index.php'></i><span>Home</span></a> 
+                   <li><a href='../about.php'></i><span>About</span></a>
+                   <li><a href='../services.php'><span>Services</span></a>
+                   <li><a href='../resources.php'><span>Resources</span></a>
+                   <li class='last'><a href='../contact.php'><span>Contact</span></a>
                 </ul>
             </div>
 
