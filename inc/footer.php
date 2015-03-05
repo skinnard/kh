@@ -12,7 +12,7 @@
 
 
             <div class="large-12 columns footer">
-                <p>Kristen Hodges Therapy</p><p>(647)269-3436</p><p>kristenhodges@therapy.com</p>
+                <p>Kristen Hodges Therapy</p><p>(647)269-3436</p><p>therapy@kristenhodges.com</p>
             </div>
 
         </div> <!-- End of Container -->

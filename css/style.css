@@ -259,6 +259,9 @@ Footer
 	font-family: 'Bentham', serif;
 	line-height: 1em;
 }
+.footer a {
+	color: #FFFFFF;
+}
 
 
 /**************************************************
@@ -465,7 +468,7 @@ Media Queries
 			margin-top: 30px;
 		}
 		.divider {
-			padding: 30px 5% 50px;
+			padding: 75px 5% 50px;
 		}
 		#talkbubble {
 			margin-top: 30px;
