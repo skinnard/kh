@@ -7,6 +7,9 @@
             <p><em>My warm and welcoming offices are conveniently located in Toronto and Mississauga.</em></p>
             <p>Please contact me for more detailed information on office hours and appointment times.</p>
             <p>(647) 269-3436 <br>therapy@kristenhodges.com</p>
+
+            
+
         </div>  
 
         <!-- <div class="small-12 medium-6" id="contact-area">
