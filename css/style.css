@@ -336,13 +336,27 @@ Pages
 .sheppard {
 	margin-bottom: 0px;
 }
+.sheppard img {
+	height: 200px;
+}
 .queen {
 	margin-bottom: 0px;	
 }
 .contact-row {
 	width: 80%;
 }
-
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.sheppard .left {
+	width:50%;
+}
+.sheppard .right {
+	width:50%;
+}
 
 /*RESOURCES*/
 
