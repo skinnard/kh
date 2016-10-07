@@ -138,7 +138,7 @@ Content
 
 .main-img {
 	text-align: center;
-	margin-bottom: 30px;
+	margin-bottom: 73px;
 	margin-top: 73px;
 	width: 80%;
 }
@@ -276,7 +276,8 @@ Pages
 }
 .about-content img {
 	float: right;
-	margin: 130px 5% 30px;
+	margin: 120px 5% 30px;
+	width: 320px;
 }
 .about-content h3 {
 	font-size: 2em;

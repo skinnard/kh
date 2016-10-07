@@ -40,6 +40,11 @@
             
     <iframe class="map-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.2318191352283!2d-79.71263950000002!3d43.580887499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b41b95d2aa6e3%3A0x5d3b30332849dd45!2s220+Queen+St+S%2C+Mississauga%2C+ON+L5M+1L6!5e0!3m2!1sen!2sca!4v1416409708623" width="1000" height="400" frameborder="0" style="border:0"></iframe>
 
+    <div class="brant">
+        <img src="img/460-brant.jpg">
+    </div> 
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.4047349673738!2d-79.79938393004504!3d43.32671908607583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c9e24dcd40e39%3A0x79993b96cf31beaf!2s460+Brant+St%2C+Burlington%2C+ON+L7R+4B6!5e0!3m2!1sen!2sca!4v1475802862190" width="1000" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
            
 
 <?php include('inc/footer.php'); ?>

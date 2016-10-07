@@ -7,7 +7,7 @@
                 </div>
 
                 <div class="small-12 medium-12 columns main-pic">
-                    <img class="main-img" src="img/kristen.jpg">
+                    <img class="main-img" src="img/IMG_8478-2.jpg">
                 </div>
             </div>
 

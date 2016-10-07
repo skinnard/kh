@@ -3,7 +3,7 @@
 
             <div class="row">
                 <div class="small-12 columns about-content">
-                    <img src="img/headshot-small.jpg">
+                    <img src="img/IMG_8457.jpg">
                     <h3>about</h3>
                     <h4>Credentials</h4>
                     <p>I am a Registered Psychotherapist with the College of Registered Psychotherapists of Ontario (CRPO) and a Registered Marriage and Family Therapist with the American Association for Marriage and Family Therapy (AAMFT). I hold a Masters degree in Counselling from Tyndale University College and Seminary and an honours degree in Psychology from the University of&nbsp;Guelph.</p>
