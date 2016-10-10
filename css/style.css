@@ -318,13 +318,6 @@ Pages
 
 /*CONTACT*/
 
-.map-1 {
-	margin-bottom: 50px;
-	width: 100%;
-}
-.map-2 {
-	margin-bottom: 50px;
-}
 .contact-info {
 	padding-bottom: 35px;
 }
@@ -334,28 +327,51 @@ Pages
 	font-size: 2em;
 }
 .sheppard {
-	margin-bottom: 0px;
+	width: 90%;
+	height: 200px;
+  margin: 0px auto 30px;
+  clear: both;
 }
 .sheppard img {
 	height: 200px;
+	width: auto;
 }
 .queen {
-	margin-bottom: 0px;	
+	width: 90%;
+	height: 200px;
+  margin: 0px auto 30px;
+  clear: both;
 }
+.queen img {
+	height: 200px;
+	width: auto;
+}
+.brant {
+	width: 90%;
+	height: 200px;
+  margin: 0px auto 30px;
+  clear: both;
+}
+
+.brant img {
+	height: 200px;
+	width: auto;
+}
+
 .contact-row {
 	width: 80%;
 }
-.left {
+.sheppard .float-left,
+.queen .float-left,
+.brant .float-left {
+	width: 50%;
 	float: left;
 }
-.right {
+.sheppard .float-right,
+.queen .float-right,
+.brant .float-right {
+	width: 50%;
 	float: right;
-}
-.sheppard .left {
-	width:50%;
-}
-.sheppard .right {
-	width:50%;
 }
 
 /*RESOURCES*/
@@ -436,6 +452,120 @@ Pages
 /**************************************************
 Media Queries
 **************************************************/
+
+
+
+/* medium displays */
+@media only screen and (max-width: 1100px) {
+	body 
+	.intro {
+		max-width: 100%;
+	}
+	.intro h3 {
+		text-align: center;		 
+	}
+	.main-pic {
+		max-width: 100%;
+		text-align: center;
+	}
+	.main-pic img {
+		margin-top: 0;
+	}
+	.sheppard {
+	width: 90%;
+	height: 200px;
+  margin: 0px auto 30px;
+  height: 100%;
+  clear: both;
+}
+.sheppard img {
+	height: 200px;
+	width: auto;
+}
+.queen {
+	width: 90%;
+	height: 200px;
+  margin: 0px auto 30px;
+  clear: both;
+  height: 100%;
+}
+.queen img {
+	height: 200px;
+	width: auto;
+}
+.brant {
+	width: 90%;
+	height: 200px;
+  margin: 0px auto 30px;
+  clear: both;
+  height: 100%;
+}
+
+.brant img {
+	height: 200px;
+	width: auto;
+}
+
+.contact-row {
+	width: 80%;
+}
+.sheppard .float-left,
+.queen .float-left,
+.brant .float-left {
+	width: 100%;
+	float: none;
+	margin: 0 auto;
+	max-width: 450px;
+
+}
+.sheppard .float-right,
+.queen .float-right,
+.brant .float-right {
+	width: 100%;
+	float: none;
+	margin: 0 auto;
+	max-width: 450px;
+
+}
+
+/*------------------------------------------------*/
+
+/* large displays */
+
+@media only screen and (min-width: 1100px) {
+
+	.list_left {
+		padding-left: 10%;
+	}
+	.list_right {
+		padding-left: 0;
+		padding-right: 10%;
+	}
+	.intro {
+		max-width: 50%;
+	}
+	.main-pic {
+		max-width: 50%;
+	}
+	.lead {
+		max-width: 60%;
+		margin-bottom: 30px;
+	}
+	.lead p {
+		margin-top: 30px;
+	}
+	.main_paragraph i {
+		margin-top: 35px;
+	}
+	.main_paragraph{
+		max-width: 80%
+	}
+
+
+} /* End of Large Screen Media Query */
+
+
+
 
 /* small displays */
 @media only screen and (max-width: 640px) {
@@ -518,79 +648,15 @@ Media Queries
 		.contact-row {
 			width: 100%;
 		}
-		.map-1 {
-			margin-bottom: 0px;
-			height: 200px;
-			width: 100%;
-		}
-		.map-2 {
-			margin-bottom: 0px;
-			height: 200px;
+
+		.brant img,
+		.queen img,
+		.sheppard img {
+			height: auto;
 			width: 100%;
 		}
 
 } /* End of small screen Media Query */
-
-/* medium displays */
-@media only screen and (max-width: 1000px) {
-	body 
-	.intro {
-		max-width: 100%;
-	}
-	.intro h3 {
-		text-align: center;		 
-	}
-	.main-pic {
-		max-width: 100%;
-		text-align: center;
-	}
-	.main-pic img {
-		margin-top: 0;
-	}
-}
-
-/*------------------------------------------------*/
-
-/* large displays */
-
-@media only screen and (min-width: 1000px) {
-
-	.list_left {
-		padding-left: 10%;
-	}
-	.list_right {
-		padding-left: 0;
-		padding-right: 10%;
-	}
-	.intro {
-		max-width: 50%;
-	}
-	.main-pic {
-		max-width: 50%;
-	}
-	.lead {
-		max-width: 60%;
-		margin-bottom: 30px;
-	}
-	.lead p {
-		margin-top: 30px;
-	}
-	.main_paragraph i {
-		margin-top: 35px;
-	}
-	.main_paragraph{
-		max-width: 80%
-	}
-
-
-
-
-} /* End of Large Screen Media Query */
-
-
-
-
-
 
 
 
