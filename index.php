@@ -3,7 +3,7 @@
 
             <div class="row main-pic-row">
                 <div class="small-12 medium-12 columns intro">
-                    <h3>If you are struggling and need professional support, I can help. I&nbsp;offer therapy for individuals, couples and families in the Greater Toronto Area and look forward to connecting with you&nbsp;soon.</h3>
+                    <h3>If you are struggling and need professional support, I can help. I&nbsp;offer therapy for individuals, couples and families and look forward to connecting with you&nbsp;soon.</h3>
                 </div>
 
                 <div class="small-12 medium-12 columns main-pic">
